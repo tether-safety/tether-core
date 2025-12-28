@@ -23,6 +23,7 @@ Key characteristics:
 
 ## High-Level Components
 
+```text
 +-------------------------------+
 |           Device / OS         |
 |  (Battery, GPS, Alarms, Boot, |
