@@ -56,7 +56,7 @@ Key characteristics:
 |             Cloud             |
 |     (Relay, Notify, Store)    |
 +-------------------------------+
-
+```
 
 ## Core Components
 
